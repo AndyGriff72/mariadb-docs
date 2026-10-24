@@ -59,6 +59,7 @@ Note: Every project we know of which works with MySQL also works with MariaDB. T
 * [ownCloud](https://owncloud.com/) ([documentation](https://doc.owncloud.com/server/latest/admin_manual/configuration/database/linux_database_configuration.html))
 * [phpMyAdmin](https://www.phpmyadmin.net/documentation/)
 * [Plone](https://plone.org/)
+* [Redbrix](https://redbrix.io)
 * [Querious](https://www.araelium.com/querious) - Mac OS X database administration tool
 * [RAD Studio (Embarcadero)](https://www.embarcadero.com/products/rad-studio/whats-new-in-10-2-tokyo) supports MariaDB from RAD Studio 10.2 Tokyo
 * [Replication Manager for MariaDB and MySQL](https://github.com/tanji/replication-manager) - High Availability solution to manage MariaDB Server GTID-based replication topologies

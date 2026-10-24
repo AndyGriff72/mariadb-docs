@@ -825,6 +825,7 @@
     * [ocelotgui](clients-and-utilities/graphical-and-enhanced-clients/ocelotgui.md)
     * [phpMyAdmin](clients-and-utilities/graphical-and-enhanced-clients/phpmyadmin.md)
     * [Querious](clients-and-utilities/graphical-and-enhanced-clients/querious.md)
+    * [Redbrix](clients-and-utilities/graphical-and-enhanced-clients/redbrix.md)    
     * [SB Data Generator](clients-and-utilities/graphical-and-enhanced-clients/sb-data-generator.md)
     * [SQL Diagnostic Manager & SQLyog](clients-and-utilities/graphical-and-enhanced-clients/sql-diagnostic-manager-and-sqlyog.md)
     * [SQLPro Studio](clients-and-utilities/graphical-and-enhanced-clients/sqlpro-studio.md)
